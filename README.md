@@ -30,7 +30,7 @@ Run the setup-exo-clean.sh script to install exo-clean:
 ./setup-exo-clean.sh
 
 Once the installation is complete, you can run exo-clean anytime to clean and optimize your system:
-exo-clean
+**exo-clean**
 
 If there's a new version of exo-clean.sh, the script will automatically update itself! 🔄
 
