@@ -21,13 +21,13 @@ Installation Instructions:
 To install and use exo-clean, follow these simple steps:
 
 Download the setup-exo-clean.sh script:
-curl -o setup-exo-clean.sh https://loyalhood.xyz/scripts/setup-exo-clean.sh
+**curl -o setup-exo-clean.sh https://loyalhood.xyz/scripts/setup-exo-clean.sh**
 
 Make it executable:
-chmod +x setup-exo-clean.sh
+**chmod +x setup-exo-clean.sh**
 
 Run the setup-exo-clean.sh script to install exo-clean:
-./setup-exo-clean.sh
+**./setup-exo-clean.sh**
 
 Once the installation is complete, you can run exo-clean anytime to clean and optimize your system:
 **exo-clean**
